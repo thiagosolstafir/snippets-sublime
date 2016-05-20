@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+-moz-border-radius: ${1:valor}px;   
+-webkit-border-radius: ${1:valor}px;
+border-radius: ${1:valor}px;
+]]></content>
+   <tabTrigger>borderRadius</tabTrigger>
+   <scope>source.css</scope>
+</snippet>

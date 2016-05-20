@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+width: ${1:valor}px;
+height: ${2:valor}px;
+float: ${3:posicao};
+margin: ${4:valor}px ${5:valor}px ${6:valor}px ${7:valor}px;
+]]></content>
+   <tabTrigger>_widthPersonalizado</tabTrigger>
+   <scope>source.css</scope>
+</snippet>

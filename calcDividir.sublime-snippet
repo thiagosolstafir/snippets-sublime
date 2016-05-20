@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+width: -webkit-calc((100% / ${1:2}) - ${2:20}px);
+width: -moz-calc((100% / ${1:2}) - ${2:20}px);
+width: calc((100% / ${1:2}) - ${2:20}px);
+]]></content>
+   <tabTrigger>calcDividir</tabTrigger>
+   <scope>source.css</scope>
+</snippet>

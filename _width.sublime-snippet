@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+width:100%;
+height:auto;
+float:left;
+margin:0;
+]]></content>
+   <tabTrigger>_width</tabTrigger>
+   <scope>source.css</scope>
+</snippet>
